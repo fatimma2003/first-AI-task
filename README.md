@@ -1,2 +1,2 @@
 # first-AI-task
-Develop an AI model that can differentiate between wilted and fresh roses.
+We developed an AI model that distinguishes between wilted and fresh roses using Teachable Machine.
